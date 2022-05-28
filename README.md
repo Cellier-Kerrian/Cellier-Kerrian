@@ -38,6 +38,4 @@ Si vous voulez me contacter | If you want to contact me :
 
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cellier-kerrian&show_icons=true&locale=en&layout=compact" alt="cellier-kerrian" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cellier-kerrian&show_icons=true&locale=en" alt="cellier-kerrian" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cellier-kerrian&show_icons=true&hide=contribs,prs&theme=discord_old_blurple) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cellier-kerrian&langs_count=8&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
