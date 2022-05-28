@@ -1,37 +1,43 @@
-### Hi there 👋
+# A propos de moi | About me
 
-<!--
-**Cellier-Kerrian/Cellier-Kerrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## • Description :
 
-Here are some ideas to get you started:
+Je m'appelle Kerrian, j'ai 18 ans et je suis étudiant dans l'enseignement général.
+Je suis actuellement en classe de Terminal, option Mathématiques et NSI*.
+Plus tard, j'aimerais intégrer une école spécialisée dans l'informatique, pour un jour être développeur de jeu ou bien de logiciel.
+J'ai fait ce Github afin de retrouver tous les projets que j'ai créés ou bien ceux pour lesquels j'ai participé, mais aussi pour que vous, vous puissiez en profiter puisque tout est Open-Source et donc libre d'accès.
+Je suis réceptif de tout commentaire de votre part, positif comme négatif. Tout est bon à prendre pour avancer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*NSI : Numérique et Sciences Informatiques - C'est une spécialité au Lycée.
 
-<h1 align="center">Hi 👋, I'm Cellier Kerrian</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cellier-kerrian&label=Profile%20views&color=0e75b6&style=flat" alt="cellier-kerrian" /> </p>
+My name is Kerrian, I am 18 years old and I am a student in general education.
+I am currently in Terminal class, Mathematics and NSI* option.
+Later, I would like to go to a school specializing in IT, one day to be a game or software developer.
+I made this Github in order to find all the projects that I created or those for which I participated, but also so that you can benefit from it since everything is Open-Source and therefore free of access.
+I am receptive to any comments from you, positive or negative. Everything is good to take to move forward.
 
-<p align="left"> <a href="https://twitter.com/cellier_kerrian" target="blank"><img src="https://img.shields.io/twitter/follow/cellier_kerrian?logo=twitter&style=for-the-badge" alt="cellier_kerrian" /></a> </p>
+*NSI : Digital and Computer Sciences - It is a specialty at the Lycée.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cellier_kerrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cellier_kerrian" height="30" width="40" /></a>
-</p>
+## • Langages informatiques connu | Known computer languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Python (Intermédiaire | Intermediate)
+- C (En apprentissage | In training)
+- HTML / CSS (Intermédiaire, il y a longtemps | Intermediate, a long time ago)
+- JavaScript (Débutant | Beginner)
+
+## • Contacte
+
+Si vous voulez me contacter | If you want to contact me :
+- Twitter - [@Cellier_Kerrian](https://twitter.com/Cellier_Kerrian)
+- Mail - `kerrian.cellier@gmail.com`
+- Discord - `Cellier Kerrian#9197`
+
+![Image](https://cdn.discordapp.com/attachments/922486147366662204/922486202844737606/banner.png)
+
+#
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cellier-kerrian&show_icons=true&locale=en&layout=compact" alt="cellier-kerrian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cellier-kerrian&show_icons=true&locale=en" alt="cellier-kerrian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cellier-kerrian&" alt="cellier-kerrian" /></p>
