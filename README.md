@@ -27,6 +27,8 @@ I am receptive to any comments from you, positive or negative. Everything is goo
 - HTML / CSS (Intermédiaire, il y a longtemps | Intermediate, a long time ago)
 - JavaScript (Débutant | Beginner)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cellier-kerrian&langs_count=8&theme=discord_old_blurple&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
 ## • Contacte
 
 Si vous voulez me contacter | If you want to contact me :
@@ -38,6 +40,4 @@ Si vous voulez me contacter | If you want to contact me :
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cellier-kerrian&show_icons=true&hide=contribs,prs&theme=discord_old_blurple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cellier-kerrian&langs_count=8&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+![Cellier-Kerrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cellier-kerrian&show_icons=true&hide=contribs,prs&theme=discord_old_blurple&locale=en)
